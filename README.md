@@ -1,51 +1,69 @@
-# 🧮 Leçon : Calcul Littéral (3ᵉ année collège)
+# 🧮 Séance de 2h — Calcul littéral (3ᵉ année collège)
 
-## 🔹 1. La simple distributivité
-### 📘 Rappel :
+## 🎯 Objectifs de la séance
+- Comprendre et appliquer la **distributivité simple et double**.  
+- Savoir **développer** et **réduire** une expression littérale.  
+- Utiliser les **identités remarquables** pour aller plus vite dans les calculs.  
+- Savoir **factoriser** une expression simple.
+
+---
+
+## 🕐 1ʳᵉ partie (≈ 45 min) — La distributivité
+
+### 🔹 1. Rappel : la simple distributivité
 Pour tous nombres \( a, b, c \) :
 \[
-a \times (b + c) = a \times b + a \times c
-\]
-\[
-a \times (b - c) = a \times b - a \times c
+a(b + c) = ab + ac \quad \text{et} \quad a(b - c) = ab - ac
 \]
 
-### 🧩 Exemple :
+### 💡 Exemple :
 \[
-3 \times (x + 5) = 3x + 15
-\]
-\[
-5 \times (x - 2) = 5x - 10
+3(x + 4) = 3x + 12 \quad ; \quad -2(x - 5) = -2x + 10
 \]
 
-### 💡 Remarque :
-Développer, c’est **transformer un produit en somme**.  
-Factoriser, c’est **transformer une somme en produit**.
+### 🧩 Exercice 1
+Développe et réduis :
+1. \( 5(x + 3) \)  
+2. \( -4(x - 2) \)  
+3. \( 2(3x + 5) \)
+
+✅ **Correction :**
+1. \( 5x + 15 \)  
+2. \( -4x + 8 \)  
+3. \( 6x + 10 \)
 
 ---
 
-## 🔹 2. La double distributivité
-### 📘 Rappel :
+### 🔹 2. La double distributivité
 Pour tous nombres \( a, b, c, d \) :
 \[
-(a + b)(c + d) = a \times c + a \times d + b \times c + b \times d
+(a + b)(c + d) = ac + ad + bc + bd
 \]
 
-### 🧩 Exemple :
+### 💡 Exemple :
 \[
-(2x + 3)(x + 4) = 2x^2 + 8x + 3x + 12 = 2x^2 + 11x + 12
+(x + 2)(x + 5) = x^2 + 5x + 2x + 10 = x^2 + 7x + 10
 \]
+
+### 🧩 Exercice 2
+Développe et réduis :
+1. \( (x + 4)(x + 3) \)  
+2. \( (2x + 1)(x - 2) \)
+
+✅ **Correction :**
+1. \( x^2 + 7x + 12 \)  
+2. \( 2x^2 - 3x - 2 \)
 
 ---
 
-## 🔹 3. Identités remarquables
-Ces formules permettent de développer ou factoriser rapidement.
+## 🕐 2ᵉ partie (≈ 45 min) — Les identités remarquables
 
+### 🔹 1. Les trois identités importantes
 1️⃣ \((a + b)^2 = a^2 + 2ab + b^2\)  
 2️⃣ \((a - b)^2 = a^2 - 2ab + b^2\)  
 3️⃣ \((a + b)(a - b) = a^2 - b^2\)
 
-### 🧩 Exemple :
+### 💡 Exemple :
 \[
 (3x + 2)^2 = 9x^2 + 12x + 4
 \]
@@ -58,76 +76,58 @@ Ces formules permettent de développer ou factoriser rapidement.
 
 ---
 
-# 🧠 Exercices
-
-## Exercice 1 : Simple distributivité
-**Développe et réduis :**
-1. \( 3(x + 5) \)  
-2. \( -2(x - 7) \)
+### 🧩 Exercice 3
+Développe à l’aide d’une identité remarquable :
+1. \( (x + 5)^2 \)  
+2. \( (x - 3)^2 \)  
+3. \( (x + 8)(x - 8) \)
 
 ✅ **Correction :**
-1. \( 3x + 15 \)  
-2. \( -2x + 14 \)
+1. \( x^2 + 10x + 25 \)  
+2. \( x^2 - 6x + 9 \)  
+3. \( x^2 - 64 \)
 
 ---
 
-## Exercice 2 : Double distributivité
-**Développe et réduis :**
-1. \( (x + 4)(x + 2) \)  
-2. \( (2x + 3)(x - 5) \)
+### 🧩 Exercice 4
+Factorise à l’aide d’une identité remarquable :
+1. \( x^2 - 36 \)  
+2. \( 9x^2 - 24x + 16 \)
 
 ✅ **Correction :**
-1. \( x^2 + 6x + 8 \)  
-2. \( 2x^2 - 7x - 15 \)
+1. \( (x + 6)(x - 6) \)  
+2. \( (3x - 4)^2 \)
 
 ---
 
-## Exercice 3 : Utilise l’identité remarquable
-**Développe en utilisant une identité remarquable :**
-1. \( (x + 6)^2 \)  
-2. \( (2x - 3)^2 \)  
-3. \( (x + 5)(x - 5) \)
+## 🧠 3. Application finale (≈ 20 min)
 
-✅ **Correction :**
-1. \( x^2 + 12x + 36 \)  
-2. \( 4x^2 - 12x + 9 \)  
-3. \( x^2 - 25 \)
-
----
-
-## Exercice 4 : Factorisation
-**Factorise à l’aide d’une identité remarquable :**
-1. \( x^2 - 81 \)  
-2. \( 9x^2 - 6x + 1 \)
-
-✅ **Correction :**
-1. \( (x + 9)(x - 9) \)  
-2. \( (3x - 1)^2 \)
-
----
-
-## Exercice 5 : Trouve le produit mentalement
+### 🧩 Exercice 5 — Calcul mental avec les identités
 Calcule mentalement :
 1. \( 104 \times 96 \)
 
-✅ **Astuce :**
-\( 104 \times 96 = (100 + 4)(100 - 4) = 100^2 - 4^2 = 10000 - 16 = 9984 \)
+✅ **Correction :**
+\[
+104 \times 96 = (100 + 4)(100 - 4) = 100^2 - 4^2 = 10000 - 16 = 9984
+\]
 
 ---
 
-## Exercice 6 : Mélange (développe ou factorise selon le cas)
-1. \( (x + 2)^2 - (x - 2)^2 \)  
-2. \( 4x^2 - 25 \)  
-3. \( (x - 1)(x + 3) \)
+### 🧩 Exercice 6 — Mélange final
+Développe ou factorise selon le cas :
+1. \( 3(x - 2) + 2(x + 5) \)  
+2. \( (x + 2)^2 - (x - 2)^2 \)  
+3. \( 4x^2 - 25 \)
 
 ✅ **Correction :**
-1. \( (x + 2)^2 - (x - 2)^2 = 8x \)  
-2. \( 4x^2 - 25 = (2x + 5)(2x - 5) \)  
-3. \( x^2 + 2x - 3 \)
+1. \( 3x - 6 + 2x + 10 = 5x + 4 \)  
+2. \( (x + 2)^2 - (x - 2)^2 = 8x \)  
+3. \( (2x + 5)(2x - 5) \)
 
 ---
 
-# 🎯 À retenir
-- Développer : transformer un produit en somme.  
-- Factoriser : transformer une somme en produit.  
-- Bien connaître les trois identités remarquables pour aller plus vite !
+## 🏁 Bilan de la séance
+- Savoir **développer** grâce à la distributivité simple et double.  
+- Utiliser les **identités remarquables** pour simplifier les calculs.  
+- Savoir **factoriser** une expression littérale.  
+- Être capable de **calculer mentalement** avec ces outils.
