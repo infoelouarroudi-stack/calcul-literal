@@ -1,4 +1,4 @@
-# 🧮 Séance de 2h — Calcul littéral (3ᵉ année collège)
+# 🧮 Séance de 1h30 — Calcul littéral
 
 ---
 
